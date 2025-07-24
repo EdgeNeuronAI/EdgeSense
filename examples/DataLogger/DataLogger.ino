@@ -1,7 +1,7 @@
 /***************************************************
-  Consentium IoT - TinyML Data Acquisition Example
+  Consentium IoT - Data Acquisition Example
   -------------------------------------------------
-  This example demonstrates the use of Consentium's TinyML library 
+  This example demonstrates the use of Consentium's library 
   for logging sensor data and preparing it for real-time inference 
   or processing. The library is designed to work seamlessly with 
   EdgeModelKit , a Python library for sensor data acquisition, 
@@ -15,7 +15,6 @@
   - Seamless integration with EdgeModelKit for advanced workflows:
     - Fetch and log sensor data transmitted over serial in real time
     - Organize sensor data with class labels, timestamps, and counters
-    - Test `.keras` models and convert them to TFLite formats for edge deployments
 
   Tutorials and Documentation:
   Visit us at: 
