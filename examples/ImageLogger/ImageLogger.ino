@@ -30,7 +30,7 @@
   MIT license - Redistribution must include this header.
  ****************************************************/
 
-#include <EdgeVision.h>
+#include <EdgeSense.h>
 
 // Replace these with your actual WiFi credentials
 const char* ssid = "YOUR_WIFI_SSID";

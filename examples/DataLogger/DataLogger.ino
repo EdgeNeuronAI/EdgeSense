@@ -27,7 +27,7 @@
   MIT license - Redistribution must include this header.
  ****************************************************/
 
-#include <EdgeStream.h> 
+#include <EdgeSense.h> 
 
 EdgeStream stream;
 

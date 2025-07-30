@@ -4,6 +4,28 @@
 
 ---
 
+## ⚡ Quick Start
+
+To use EdgeSense in your Arduino sketch, simply include the main header:
+
+```cpp
+#include <EdgeSense.h>
+```
+
+This single include gives you access to all core components, such as `EdgeStream`, `EdgeSensor`, and `EdgeVision`:
+
+```cpp
+#include <EdgeSense.h>
+
+EdgeStream stream;
+
+void setup() {
+  stream.begin();
+}
+```
+
+---
+
 ## 🔧 Supported Sensor Modes
 
 - 📷 **Image Logging** using ESP32-CAM or OV2640-compatible modules  
